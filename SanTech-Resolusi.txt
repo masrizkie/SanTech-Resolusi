@@ -2,5 +2,6 @@ SanTech-Resolusi
   - Membuat konten 2x seminggu
   - Membuat platform utk pengeloaan video pembelajaran
   - Membuat forum diskusi
-  - Membuat silabus dan kurikulum
+
   - korespondensi dengan pihak-pihak universitas
+  - mengadakan pelatihan untuk mentor
