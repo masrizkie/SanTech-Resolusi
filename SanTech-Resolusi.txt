@@ -1,0 +1,4 @@
+SanTech-Resolusi
+  - Membuat konten 2x seminggu
+  - Membuat platform utk pengeloaan video pembelajaran
+  - Membuat forum diskusi
